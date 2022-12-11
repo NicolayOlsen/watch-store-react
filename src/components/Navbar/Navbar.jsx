@@ -3,7 +3,7 @@ import "./navbar.css"
 
 const Navbar = () => (
     <nav className="navbar">
-        <h1>URMAKER VYBZ</h1>
+        <h1>URMAKER <span>NICOLAY</span></h1>
       <ul className="navbar__menu">
         <li className="navbar__menu-item">
           <a href="/">HJEM</a>
