@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Rolex Submariner",
+      "price": "150.000kr",
+      "imageUrl": "https://content.rolex.com//dam/2022/upright-bba-with-shadow/m126613lb-0002.png?impolicy=v6-corners-bg&sc=0.15&cw=320&ch=408&vo=5&bg=%23ffffff,%20https://content.rolex.com//dam/2022/upright-bba-with-shadow/m126613lb-0002.png?impolicy=v6-corners-bg&sc=0.3&cw=640&ch=816&vo=5&bg=%23ffffff%202x"
+    },
+    {
+      "id": 2,
+      "name": "Rolex Daytona",
+      "price": "60.000kr",
+      "imageUrl": "https://content.rolex.com//dam/2022/upright-bba-with-shadow/m124300-0003.png?impolicy=v6-corners-bg&sc=0.15&cw=320&ch=408&vo=5&bg=%23ffffff,%20https://content.rolex.com//dam/2022/upright-bba-with-shadow/m124300-0003.png?impolicy=v6-corners-bg&sc=0.3&cw=640&ch=816&vo=5&bg=%23ffffff%202x"
+    },
+    {
+      "id": 3,
+      "name": "Rolex Seadweller",
+      "price": "180.000kr",
+      "imageUrl": "https://content.rolex.com//dam/2022/upright-bba-with-shadow/m126603-0001.png?impolicy=v6-corners-bg&sc=0.15&cw=320&ch=408&vo=5&bg=%23ffffff,%20https://content.rolex.com//dam/2022/upright-bba-with-shadow/m126603-0001.png?impolicy=v6-corners-bg&sc=0.3&cw=640&ch=816&vo=5&bg=%23ffffff%202x"
+    }
+]
